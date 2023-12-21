@@ -22,3 +22,5 @@ Gérer l'historique des versions.
 Les branches permettent de travailler sur des versions parallèles du projet.
 
 Fusionner une branche : `git merge <name>`.
+
+Changement à annuler.
