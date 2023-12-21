@@ -24,3 +24,7 @@ Les branches permettent de travailler sur des versions parallèles du projet.
 Fusionner une branche : `git merge <name>`.
 
 Changement à conserver.
+
+## Ma nouvelle section
+
+Contenu
