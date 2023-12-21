@@ -16,3 +16,7 @@ Gérer l'historique des versions.
 ## Hello
 
 - J'ai modifié ce fichier
+
+## Branches
+
+Les branches permettent de travailler sur des versions parallèles du projet.
