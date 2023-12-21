@@ -12,3 +12,7 @@ Gérer l'historique des versions.
 ## GitHub
 
 - Créer un dépôt en ligne
+
+## Branches
+
+Les branches permettent de travailler sur des versions parallèles du projet.
