@@ -32,3 +32,5 @@ Contenu
 Contenu branche `ma-partie`.
 
 Contenu sur `main`
+
+Nouveau contenu sur `main`.
