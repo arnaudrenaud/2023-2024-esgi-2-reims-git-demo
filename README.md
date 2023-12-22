@@ -28,3 +28,5 @@ Changement à conserver.
 ## Ma nouvelle section
 
 Contenu
+
+Contenu branche `ma-partie`.
